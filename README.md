@@ -1,5 +1,3 @@
-<p><a> https://www.w3schools.com </a></p>
-
 <p>Privacy policy
 
 1. Introductory
