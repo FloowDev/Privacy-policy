@@ -1,3 +1,5 @@
+<p><a href="https://www.w3schools.com">Visit W3Schools.com!</a></p>
+
 <h1>Privacy policy
 
 1. Introductory
