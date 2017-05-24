@@ -1,7 +1,7 @@
 <h1>Privacy policy</h1>
 
 <b>1. Introductory</b>
-1) Please read this Privacy Policy carefully. This Privacy Policy constitutes the integral part of the agreement between you (also, the ''User'') and the XonStudio (also, the ''Company''), address: Ukraine Kherson Beregovoi 7 kv. 114.
+<p>1) Please read this Privacy Policy carefully. This Privacy Policy constitutes the integral part of the agreement between you (also, the ''User'') and the XonStudio (also, the ''Company''), address: Ukraine Kherson Beregovoi 7 kv. 114.</p>
 
 2) This Privacy Policy describes the Company's privacy practices with regard to your Personal Data. Personal Data includes any data about you that specifically identifies you as an individual and information about your activities, such as information about your use of our Service, when directly linked to personally identifiable information.
 
