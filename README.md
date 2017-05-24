@@ -18,18 +18,18 @@
  
 <b>3. Use</b>
 <p>We may use your Personal Data for the following purposes:</p>
-- Proper provision of our services;
-- Registration, creation, management and maintenance of an account;
-- Processing of your inquiries and operations as to our Service;
-- Analyzing and understanding our audience for the purposes of improving the Service;
-- Preventing, detecting and investigating potentially prohibited or illegal activities, including fraud;
-- Investigate violations of our  and/or this Privacy Policy or enforce it, as well as to protect our interests and rights.
+<p>- Proper provision of our services;</p>
+<p>- Registration, creation, management and maintenance of an account;</p>
+<p>- Processing of your inquiries and operations as to our Service;</p>
+<p>- Analyzing and understanding our audience for the purposes of improving the Service;</p>
+<p>- Preventing, detecting and investigating potentially prohibited or illegal activities, including fraud;</p>
+<p>- Investigate violations of our  and/or this Privacy Policy or enforce it, as well as to protect our interests and rights.</p>
 
 <b>4. Disclosure</b>
 <p>1) We will not disclose Personal Data to any third parties, unless otherwise is set out by applicable law.
 We do not share Personal Data with companies, organizations and individuals outside of the Company otherwise than:</p>
 
-a) with your consent: we will share Personal Data with companies, organizations or individuals outside of the Company when we have your consent to do so. We require opt-in consent for the sharing of any sensitive Personal Data.
+<p>a) with your consent: we will share Personal Data with companies, organizations or individuals outside of the Company when we have your consent to do so. We require opt-in consent for the sharing of any sensitive Personal Data.</p>
 
 b) for external processing: we provide Personal Data to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures;
 
