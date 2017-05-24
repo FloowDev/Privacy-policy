@@ -62,21 +62,8 @@ If the Company is involved in a merger, acquisition or asset sale, we will conti
 
 2) While individuals under the childhood age may use the Services, they shall do so only with the involvement, supervision, and approval of a parent or legal guardian. At any case, we are committed to comply with applicable laws and requirements of the residence country.
 
-8. Cookies
-1) To ensure that our App functions properly, we may use various tracking technologies like cookies, web beacons or similar technologies. By using the App, you provide us your consent for our using of cookies and similar tracking technologies under the terms hereof.
-
-2) Cookies are small data files that are commonly stored on your device when you browse and use websites and online services. They are widely used to make websites work, or to work more efficiently, as well as to provide reporting information and assist with service or advertising personalization.
-
-3) We, or third parties with our permission, may use cookies in the following ways:
-- To manage our business and improve our Service based on factors such as how many users visit or use our Service, what pages and views are accessed, whether visitors are new or repeat visitors, which features of our Service most interest our visitors etc.;
-- To provide personalized recommendations, advertising, marketing emails, and guidance on Service features based on your activity on our Service and browsing activities;
-- To remember actions you took to avoid asking you to repeat them during a session or to provide features such as enabling you to resume reading at the last page you accessed, synchronized across devices;
-- To measure and analyze activity on our services, or third party services. In addition, we or any provider of such measurement and analytical services may provide non-personally identifiable data to third parties.
-
-4) The User may block, clear and delete cookies in accordance with the instruction for their web-browser or device.
-
-9. Amendments to Privacy Policy
+8. Amendments to Privacy Policy
 We have the right to amend this Private Policy at any time, without prior notice to each User. Any changes we may make to our Privacy Policy in the future will be posted here. Where appropriate, we will notify you or seek your consent. Please check back frequently to see any updates or changes to our Privacy Policy.
  
-10. Contact info
+9. Contact info
 If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your Personal Data (its correction, removal or use), you can do so by sending a letter to our email address: xoneman97@gmail.com.</p>
