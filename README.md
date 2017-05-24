@@ -17,17 +17,17 @@
 <p>3) We do not use cookies or other similar technologies to collect your Personal Data.</p>
  
 <b>3. Use</b>
-<p>We may use your Personal Data for the following purposes:
+<p>We may use your Personal Data for the following purposes:</p>
 - Proper provision of our services;
 - Registration, creation, management and maintenance of an account;
 - Processing of your inquiries and operations as to our Service;
 - Analyzing and understanding our audience for the purposes of improving the Service;
 - Preventing, detecting and investigating potentially prohibited or illegal activities, including fraud;
 - Investigate violations of our  and/or this Privacy Policy or enforce it, as well as to protect our interests and rights.
-</p>
-4. Disclosure
-1) We will not disclose Personal Data to any third parties, unless otherwise is set out by applicable law.
-We do not share Personal Data with companies, organizations and individuals outside of the Company otherwise than:
+
+<b>4. Disclosure</b>
+<p>1) We will not disclose Personal Data to any third parties, unless otherwise is set out by applicable law.
+We do not share Personal Data with companies, organizations and individuals outside of the Company otherwise than:</p>
 
 a) with your consent: we will share Personal Data with companies, organizations or individuals outside of the Company when we have your consent to do so. We require opt-in consent for the sharing of any sensitive Personal Data.
 
