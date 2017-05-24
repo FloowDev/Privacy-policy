@@ -1,18 +1,20 @@
 <h1>Privacy policy</h1>
 
 <b>1. Introductory</b>
+
 <p>1) Please read this Privacy Policy carefully. This Privacy Policy constitutes the integral part of the agreement between you (also, the ''User'') and the XonStudio (also, the ''Company''), address: Ukraine Kherson Beregovoi 7 kv. 114.</p>
 
-2) This Privacy Policy describes the Company's privacy practices with regard to your Personal Data. Personal Data includes any data about you that specifically identifies you as an individual and information about your activities, such as information about your use of our Service, when directly linked to personally identifiable information.
+<p>2) This Privacy Policy describes the Company's privacy practices with regard to your Personal Data. Personal Data includes any data about you that specifically identifies you as an individual and information about your activities, such as information about your use of our Service, when directly linked to personally identifiable information.</p>
 
-3) By registering on the Service, you accept this Privacy Policy and consent to the collection, storage, use, and disclosure of your Personal Data in accordance with this Privacy Policy and applicable legislation. You may withdraw your consent and require removal of your Personal Data by contacting us using the information in this paper.
+<p>3) By registering on the Service, you accept this Privacy Policy and consent to the collection, storage, use, and disclosure of your Personal Data in accordance with this Privacy Policy and applicable legislation. You may withdraw your consent and require removal of your Personal Data by contacting us using the information in this paper.</p>
 
-2. Collection
-1) While you register with the Service, we may request to provide data which is necessary for the provision of services and use of the Service.
+<b>2. Collection</b>
 
-2) We do not collect your Personal Data when you provide us such data via the contact form on our Service.
+<p>1) While you register with the Service, we may request to provide data which is necessary for the provision of services and use of the Service.</p>
 
-3) We do not use cookies or other similar technologies to collect your Personal Data.
+<p>2) We do not collect your Personal Data when you provide us such data via the contact form on our Service.</p>
+
+<p>3) We do not use cookies or other similar technologies to collect your Personal Data.</p>
  
 3. Use
 We may use your Personal Data for the following purposes:
