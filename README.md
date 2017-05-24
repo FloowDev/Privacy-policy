@@ -17,8 +17,8 @@
 <p>3) We do not use cookies or other similar technologies to collect your Personal Data.</p>
  
 <b>3. Use</b>
+<p>We may use your Personal Data for the following purposes:</p>
 <ul>
-<li>We may use your Personal Data for the following purposes:</li>
 <p>- Proper provision of our services;</p>
 <p>- Registration, creation, management and maintenance of an account;</p>
 <p>- Processing of your inquiries and operations as to our Service;</p>
