@@ -1,4 +1,4 @@
-<p>Privacy policy
+<plaintext>Privacy policy
 
 1. Introductory
 1) Please read this Privacy Policy carefully. This Privacy Policy constitutes the integral part of the agreement between you (also, the ''User'') and the XonStudio (also, the ''Company''), address: Ukraine Kherson Beregovoi 7 kv. 114.
@@ -66,4 +66,4 @@ If the Company is involved in a merger, acquisition or asset sale, we will conti
 We have the right to amend this Private Policy at any time, without prior notice to each User. Any changes we may make to our Privacy Policy in the future will be posted here. Where appropriate, we will notify you or seek your consent. Please check back frequently to see any updates or changes to our Privacy Policy.
  
 9. Contact info
-If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your Personal Data (its correction, removal or use), you can do so by sending a letter to our email address: xoneman97@gmail.com.</p>
+If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your Personal Data (its correction, removal or use), you can do so by sending a letter to our email address: xoneman97@gmail.com.</plaintext>
