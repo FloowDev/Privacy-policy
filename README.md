@@ -46,7 +46,7 @@ We do not share Personal Data with companies, organizations and individuals outs
 
 <p>If the Company is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any Personal Data and give affected Users notice before Personal Data is transferred or becomes subject to a different privacy policy.</p>
  
-<p>5. Third parties services</p>
+<b>5. Third parties services</b>
 <ul>
 <p>1) We do not sell, provide on lease, or share any Personal Data of the Users to third parties.</p>
 
@@ -55,7 +55,8 @@ We do not share Personal Data with companies, organizations and individuals outs
 <p>3) When we use third-party vendors to perform certain services on behalf of us, such as hosting the site or application, analytical or other services, such third-party vendors may collect or have access to information about you (for example, automatically collected information through tracking technologies). Please recognize that we and/or our vendors may store this information and share this information with third parties as necessary to provide you with our services.</p>
 </ul>
 
-6. Data storage and security and cross-border transfer 
+<b>6. Data storage and security and cross-border transfer </b>
+
 1) We will use all reasonable measures to protect your Personal Data from unauthorized access, alteration, disclosure or removal. The Service is equipped with the means of security and protection of your Personal Data.
 
 2) Immediate access to your Personal Data is allowed only to us and persons authorized by us and involved in the maintenance of the Service. Such persons will strictly keep confidentiality of and prevent unauthorized third-party access to your Personal Data.
