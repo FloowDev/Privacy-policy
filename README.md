@@ -30,25 +30,30 @@
 <b>4. Disclosure</b>
 <p>1) We will not disclose Personal Data to any third parties, unless otherwise is set out by applicable law.
 We do not share Personal Data with companies, organizations and individuals outside of the Company otherwise than:</p>
-
+<ul>
 <p>a) with your consent: we will share Personal Data with companies, organizations or individuals outside of the Company when we have your consent to do so. We require opt-in consent for the sharing of any sensitive Personal Data.</p>
 
 <p>b) for external processing: we provide Personal Data to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures;</p>
 
-<p>c) for legal reasons: we will share Personal Data with companies, organizations or individuals outside of the Company if we have a good-faith belief that access, use, preservation or disclosure of the such data is reasonably necessary to:
-- meet any applicable law, regulation, legal process or enforceable governmental request.
-- enforce applicable (), including investigation of potential violations.
-- detect, prevent, or otherwise address fraud, security or technical issues.
-- protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+<p>c) for legal reasons: we will share Personal Data with companies, organizations or individuals outside of the Company if we have a good-faith belief that access, use, preservation or disclosure of the such data is reasonably necessary to:</p>
+<ul>
+<p>- meet any applicable law, regulation, legal process or enforceable governmental request.</p>
+<p>- enforce applicable (), including investigation of potential violations.</p>
+<p>- detect, prevent, or otherwise address fraud, security or technical issues.</p>
+<p>- protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.</p>
+</ul>
+</ul>
 
-If the Company is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any Personal Data and give affected Users notice before Personal Data is transferred or becomes subject to a different privacy policy.
+<p>If the Company is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any Personal Data and give affected Users notice before Personal Data is transferred or becomes subject to a different privacy policy.</p>
  
-5. Third parties services 
-1) We do not sell, provide on lease, or share any Personal Data of the Users to third parties.
+<p>5. Third parties services</p>
+<ul>
+<p>1) We do not sell, provide on lease, or share any Personal Data of the Users to third parties.</p>
 
-2) Our Service may contain links to and from third parties’ websites, apps or other services (including social media). If you follow a link to any of them, please note that those websites have their own privacy practices. We shall not be liable for the respective policies and any collection, use or disclosure of your Personal Data in accordance thereto. Please check the third parties’ policies before you submit any Personal Data to their services.
+<p>2) Our Service may contain links to and from third parties’ websites, apps or other services (including social media). If you follow a link to any of them, please note that those websites have their own privacy practices. We shall not be liable for the respective policies and any collection, use or disclosure of your Personal Data in accordance thereto. Please check the third parties’ policies before you submit any Personal Data to their services.</p>
 
-3) When we use third-party vendors to perform certain services on behalf of us, such as hosting the site or application, analytical or other services, such third-party vendors may collect or have access to information about you (for example, automatically collected information through tracking technologies). Please recognize that we and/or our vendors may store this information and share this information with third parties as necessary to provide you with our services.
+<p>3) When we use third-party vendors to perform certain services on behalf of us, such as hosting the site or application, analytical or other services, such third-party vendors may collect or have access to information about you (for example, automatically collected information through tracking technologies). Please recognize that we and/or our vendors may store this information and share this information with third parties as necessary to provide you with our services.</p>
+</ul>
 
 6. Data storage and security and cross-border transfer 
 1) We will use all reasonable measures to protect your Personal Data from unauthorized access, alteration, disclosure or removal. The Service is equipped with the means of security and protection of your Personal Data.
