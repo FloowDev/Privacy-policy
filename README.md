@@ -76,4 +76,4 @@ We do not share Personal Data with companies, organizations and individuals outs
 <p>We have the right to amend this Private Policy at any time, without prior notice to each User. Any changes we may make to our Privacy Policy in the future will be posted here. Where appropriate, we will notify you or seek your consent. Please check back frequently to see any updates or changes to our Privacy Policy..</p>
  
 <b>9. Contact info</b>
-<p>If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your Personal Data (its correction, removal or use), you can do so by sending a letter to our email address: xoneman97@gmail.com..</p>
+<p>If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your Personal Data (its correction, removal or use), you can do so by sending a letter to our email address: xoneman97@gmail.com.</p>
