@@ -57,23 +57,23 @@ We do not share Personal Data with companies, organizations and individuals outs
 
 <b>6. Data storage and security and cross-border transfer </b>
 
-1) We will use all reasonable measures to protect your Personal Data from unauthorized access, alteration, disclosure or removal. The Service is equipped with the means of security and protection of your Personal Data.
+<p>1) We will use all reasonable measures to protect your Personal Data from unauthorized access, alteration, disclosure or removal. The Service is equipped with the means of security and protection of your Personal Data.</p>
 
-2) Immediate access to your Personal Data is allowed only to us and persons authorized by us and involved in the maintenance of the Service. Such persons will strictly keep confidentiality of and prevent unauthorized third-party access to your Personal Data.
+<p>2) Immediate access to your Personal Data is allowed only to us and persons authorized by us and involved in the maintenance of the Service. Such persons will strictly keep confidentiality of and prevent unauthorized third-party access to your Personal Data.</p>
 
-3) Please remember that our Service (and your Personal Data) may be hosted on a server outside your home country. Supplying us with your Personal Data, you permit its transfer outside the country, within the bounds of use of such Personal Data in accordance with the applicable law.
+<p>3) Please remember that our Service (and your Personal Data) may be hosted on a server outside your home country. Supplying us with your Personal Data, you permit its transfer outside the country, within the bounds of use of such Personal Data in accordance with the applicable law.</p>
 
-4) We emphasize that none of the existing ways of data transfer can be absolutely safe. The Company does not guarantee the absolute security of data in case of unauthorized access of the third parties.
+<p>4) We emphasize that none of the existing ways of data transfer can be absolutely safe. The Company does not guarantee the absolute security of data in case of unauthorized access of the third parties.</p>
 
-5) We shall not be responsible for unlawful acts of third parties, hackers, intruders, and other offenders of applicable legislation that can violate the provisions of this Privacy Policy and try to collect, either fully or in part, your Personal Data and to use it for personal advantages.
+<p>5) We shall not be responsible for unlawful acts of third parties, hackers, intruders, and other offenders of applicable legislation that can violate the provisions of this Privacy Policy and try to collect, either fully or in part, your Personal Data and to use it for personal advantages.</p>
 
-7. Children's privacy
-1) We do not collect, use or share the Personal Data of children (under the age under the applicable law). You must be legal adult to access to our Service under the applicable law and the law of the country where you are located.
+<b>7. Children's privacy</b>
+<p>1) We do not collect, use or share the Personal Data of children (under the age under the applicable law). You must be legal adult to access to our Service under the applicable law and the law of the country where you are located.</p>
 
-2) While individuals under the childhood age may use the Services, they shall do so only with the involvement, supervision, and approval of a parent or legal guardian. At any case, we are committed to comply with applicable laws and requirements of the residence country.
+<p>2) While individuals under the childhood age may use the Services, they shall do so only with the involvement, supervision, and approval of a parent or legal guardian. At any case, we are committed to comply with applicable laws and requirements of the residence country.</p>
 
-8. Amendments to Privacy Policy
-We have the right to amend this Private Policy at any time, without prior notice to each User. Any changes we may make to our Privacy Policy in the future will be posted here. Where appropriate, we will notify you or seek your consent. Please check back frequently to see any updates or changes to our Privacy Policy.
+<b>8. Amendments to Privacy Policy</b>
+<p>We have the right to amend this Private Policy at any time, without prior notice to each User. Any changes we may make to our Privacy Policy in the future will be posted here. Where appropriate, we will notify you or seek your consent. Please check back frequently to see any updates or changes to our Privacy Policy..</p>
  
-9. Contact info
-If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your Personal Data (its correction, removal or use), you can do so by sending a letter to our email address: xoneman97@gmail.com.
+<b>9. Contact info</b>
+<p>If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your Personal Data (its correction, removal or use), you can do so by sending a letter to our email address: xoneman97@gmail.com..</p>
